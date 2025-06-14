@@ -1,16 +1,17 @@
-## Hi there 👋
+## I'm achano
+:ghost:I have been a systems engineer since 2023.  
+:smiling_imp:I am focusing on learning the front end.
 
-<!--
-**achano-code/achano-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## :statue_of_liberty:status
+<p align="left">
+  <img alt="Top Langes" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achano-code&layout=compact&theme=radical" />
+  <img alt="Top Langes" height="150px" src="https://github-readme-stats.vercel.app/api?username=achano-code&hide=contribs&count_private=true&show_icons=true&theme=radical&layout=donut" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img alt="Top Langes" height="150px" src="https://github-profile-trophy.vercel.app/?username=achano-code&theme=radical" />
+</p>
+
+## :potted_plant:My Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,react,nextjs,sass,tailwind,git,github,java" />
