@@ -1,6 +1,6 @@
 ## I'm achano
 :ghost:I have been a systems engineer since 2023.  
-:smiling_imp:I am focusing on learning the front end.
+:smiling_imp:I am learning to be a full stack engineer.
 
 
 ## :statue_of_liberty:status
