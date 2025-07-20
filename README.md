@@ -5,7 +5,7 @@
 
 ## :statue_of_liberty:status
 <p align="left">
-  <img alt="Top Langes" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achano-code&layout=compact&theme=radical" />
+  <img alt="Top Langes" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achano-code&layout=compact&langs_count=8&theme=radical" />
   <img alt="Top Langes" height="150px" src="https://github-readme-stats.vercel.app/api?username=achano-code&hide=contribs&count_private=true&show_icons=true&theme=radical&layout=donut" />
 </p>
 
